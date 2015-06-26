@@ -1,0 +1,654 @@
+[
+   {
+      "radar" : "AZ9593",
+      "city" : "宁德"
+   },
+   {
+      "city" : "伊春",
+      "radar" : "AZ9086"
+   },
+   {
+      "city" : "黄岩",
+      "radar" : "AZ9747"
+   },
+   {
+      "radar" : "AZ9748",
+      "city" : "石门"
+   },
+   {
+      "radar" : "AZ9415",
+      "city" : "丹东"
+   },
+   {
+      "city" : "通辽",
+      "radar" : "AZ9475"
+   },
+   {
+      "city" : "海西",
+      "radar" : "AZ9977"
+   },
+   {
+      "city" : "三江源",
+      "radar" : "AZ9972"
+   },
+   {
+      "city" : "奎屯",
+      "radar" : "AZ9992"
+   },
+   {
+      "city" : "图木舒克",
+      "radar" : "AZ9082"
+   },
+   {
+      "radar" : "AZ9477",
+      "city" : "鄂尔多斯"
+   },
+   {
+      "city" : " 营口",
+      "radar" : "AZ9417"
+   },
+   {
+      "city" : "大连",
+      "radar" : "AZ9411"
+   },
+   {
+      "city" : "深圳",
+      "radar" : "AZ9755"
+   },
+   {
+      "radar" : "AZ9001",
+      "city" : "车道沟"
+   },
+   {
+      "radar" : "AZ9580",
+      "city" : "舟山"
+   },
+   {
+      "radar" : "AZ9660",
+      "city" : "汕尾"
+   },
+   {
+      "city" : "拉萨",
+      "radar" : "AZ9891"
+   },
+   {
+      "radar" : "AZ9870",
+      "city" : "昭通"
+   },
+   {
+      "city" : "张家口",
+      "radar" : "AZ9313"
+   },
+   {
+      "radar" : "AZ9085",
+      "city" : "建三江"
+   },
+   {
+      "city" : "克拉玛依",
+      "radar" : "AZ9990"
+   },
+   {
+      "city" : "贵阳",
+      "radar" : "AZ9851"
+   },
+   {
+      "radar" : "AZ9270",
+      "city" : "武汉"
+   },
+   {
+      "radar" : "AZ9371",
+      "city" : " 郑州"
+   },
+   {
+      "city" : "洛阳",
+      "radar" : "AZ9379"
+   },
+   {
+      "radar" : "AZ9370",
+      "city" : "商丘"
+   },
+   {
+      "radar" : "AZ9719",
+      "city" : "十堰"
+   },
+   {
+      "city" : "濮阳",
+      "radar" : "AZ9393"
+   },
+   {
+      "city" : "吉安",
+      "radar" : "AZ9796"
+   },
+   {
+      "radar" : "AZ9431",
+      "city" : "长春"
+   },
+   {
+      "radar" : "AZ9439",
+      "city" : "白山"
+   },
+   {
+      "radar" : "AZ9516",
+      "city" : "徐州"
+   },
+   {
+      "radar" : "AZ9894",
+      "city" : "林芝"
+   },
+   {
+      "radar" : "AZ9879",
+      "city" : "思茅"
+   },
+   {
+      "city" : "都匀",
+      "radar" : "AZ9854"
+   },
+   {
+      "city" : "天水",
+      "radar" : "AZ9938"
+   },
+   {
+      "radar" : "AZ9451",
+      "city" : "哈尔滨"
+   },
+   {
+      "radar" : "AZ9934",
+      "city" : "西峰"
+   },
+   {
+      "city" : "宜昌",
+      "radar" : "AZ9717"
+   },
+   {
+      "city" : "酒泉",
+      "radar" : "AZ9937"
+   },
+   {
+      "radar" : "AZ9518",
+      "city" : "连云港"
+   },
+   {
+      "city" : "常州",
+      "radar" : "AZ9519"
+   },
+   {
+      "radar" : "AZ9471",
+      "city" : "呼和浩特"
+   },
+   {
+      "city" : "海北",
+      "radar" : "AZ9970"
+   },
+   {
+      "radar" : "AZ9911",
+      "city" : "延安"
+   },
+   {
+      "radar" : "AZ9559",
+      "city" : "黄山"
+   },
+   {
+      "radar" : "AZ9898",
+      "city" : " 海口"
+   },
+   {
+      "city" : "合肥",
+      "radar" : "AZ9551"
+   },
+   {
+      "city" : "永州",
+      "radar" : "AZ9746"
+   },
+   {
+      "city" : "延吉",
+      "radar" : "AZ9433"
+   },
+   {
+      "radar" : "AZ9722",
+      "city" : "随州"
+   },
+   {
+      "city" : "赣州",
+      "radar" : "AZ9797"
+   },
+   {
+      "radar" : "AZ9951",
+      "city" : "银川"
+   },
+   {
+      "radar" : "AZ9896",
+      "city" : "那曲"
+   },
+   {
+      "city" : "长治",
+      "radar" : "AZ9355"
+   },
+   {
+      "city" : "文山",
+      "radar" : "AZ9876"
+   },
+   {
+      "city" : "厦门",
+      "radar" : "AZ9592"
+   },
+   {
+      "city" : "三门峡",
+      "radar" : "AZ9398"
+   },
+   {
+      "radar" : "AZ9552",
+      "city" : "蚌埠"
+   },
+   {
+      "radar" : "AZ9745",
+      "city" : "怀化"
+   },
+   {
+      "radar" : "AZ9736",
+      "city" : "常德"
+   },
+   {
+      "radar" : "AZ9335",
+      "city" : "秦皇岛"
+   },
+   {
+      "city" : "牡丹江",
+      "radar" : "AZ9453"
+   },
+   {
+      "city" : "盐城",
+      "radar" : "AZ9515"
+   },
+   {
+      "city" : "南昌",
+      "radar" : "AZ9791"
+   },
+   {
+      "city" : "安康",
+      "radar" : "AZ9915"
+   },
+   {
+      "city" : "海拉尔",
+      "radar" : "AZ9470"
+   },
+   {
+      "radar" : "AZ9954",
+      "city" : "固原"
+   },
+   {
+      "city" : "榆林",
+      "radar" : "AZ9912"
+   },
+   {
+      "radar" : "AZ9002",
+      "city" : " 青浦"
+   },
+   {
+      "radar" : "AZ9357",
+      "city" : "临汾"
+   },
+   {
+      "city" : " 天津",
+      "radar" : "AZ9220"
+   },
+   {
+      "radar" : "AZ9917",
+      "city" : "宝鸡"
+   },
+   {
+      "city" : " 南充",
+      "radar" : "AZ9817"
+   },
+   {
+      "radar" : "AZ9230",
+      "city" : " 重庆"
+   },
+   {
+      "radar" : "AZ9081",
+      "city" : "五家渠"
+   },
+   {
+      "city" : "库尔勒",
+      "radar" : "AZ9996"
+   },
+   {
+      "radar" : "AZ9759",
+      "city" : "湛江"
+   },
+   {
+      "radar" : "AZ9774",
+      "city" : "梧州"
+   },
+   {
+      "radar" : "AZ9317",
+      "city" : "沧州"
+   },
+   {
+      "radar" : "AZ9662",
+      "city" : "阳江"
+   },
+   {
+      "radar" : "AZ9311",
+      "city" : "石家庄"
+   },
+   {
+      "radar" : "AZ9731",
+      "city" : " 长沙"
+   },
+   {
+      "radar" : "AZ9452",
+      "city" : "齐齐哈尔"
+   },
+   {
+      "city" : "加格达奇",
+      "radar" : "AZ9457"
+   },
+   {
+      "city" : "佳木斯",
+      "radar" : "AZ9454"
+   },
+   {
+      "radar" : "AZ9436",
+      "city" : "白城"
+   },
+   {
+      "radar" : "AZ9250",
+      "city" : "南京"
+   },
+   {
+      "city" : "塔斯尔海",
+      "radar" : "AZ9080"
+   },
+   {
+      "city" : "韶关",
+      "radar" : "AZ9751"
+   },
+   {
+      "radar" : "AZ9591",
+      "city" : "福州"
+   },
+   {
+      "city" : "梅州",
+      "radar" : "AZ9753"
+   },
+   {
+      "radar" : "AZ9754",
+      "city" : "汕头"
+   },
+   {
+      "radar" : "AZ9772",
+      "city" : "柳州"
+   },
+   {
+      "city" : "河源",
+      "radar" : "AZ9762"
+   },
+   {
+      "radar" : "AZ9778",
+      "city" : "河池"
+   },
+   {
+      "city" : "马鞍山",
+      "radar" : "AZ9555"
+   },
+   {
+      "radar" : "AZ9513",
+      "city" : "南通"
+   },
+   {
+      "city" : "滨州",
+      "radar" : "AZ9543"
+   },
+   {
+      "radar" : "AZ9240",
+      "city" : "沈阳"
+   },
+   {
+      "radar" : "AZ9476",
+      "city" : "赤峰"
+   },
+   {
+      "city" : "烟台",
+      "radar" : "AZ9535"
+   },
+   {
+      "city" : "济南",
+      "radar" : "AZ9531"
+   },
+   {
+      "city" : "临沂",
+      "radar" : "AZ9539"
+   },
+   {
+      "city" : "广元",
+      "radar" : "AZ9839"
+   },
+   {
+      "city" : "成都",
+      "radar" : "AZ9280"
+   },
+   {
+      "radar" : "AZ9892",
+      "city" : "日喀则"
+   },
+   {
+      "city" : "喀什",
+      "radar" : "AZ9998"
+   },
+   {
+      "city" : "石河子",
+      "radar" : "AZ9993"
+   },
+   {
+      "radar" : "AZ9997",
+      "city" : "阿克苏"
+   },
+   {
+      "city" : "伊宁",
+      "radar" : "AZ9999"
+   },
+   {
+      "radar" : "AZ9771",
+      "city" : "南宁"
+   },
+   {
+      "radar" : "AZ9773",
+      "city" : " 桂林"
+   },
+   {
+      "radar" : "AZ9010",
+      "city" : "北京市大兴区气象局"
+   },
+   {
+      "radar" : "AZ9070",
+      "city" : "三亚"
+   },
+   {
+      "radar" : "AZ9597",
+      "city" : "龙岩"
+   },
+   {
+      "city" : "遵义",
+      "radar" : "AZ9852"
+   },
+   {
+      "city" : "安庆",
+      "radar" : "AZ9556"
+   },
+   {
+      "city" : "兴义",
+      "radar" : "AZ9859"
+   },
+   {
+      "radar" : "AZ9718",
+      "city" : "恩施"
+   },
+   {
+      "radar" : "AZ9739",
+      "city" : "邵阳"
+   },
+   {
+      "city" : "临河",
+      "radar" : "AZ9478"
+   },
+   {
+      "city" : "汉中",
+      "radar" : "AZ9916"
+   },
+   {
+      "city" : "西昌",
+      "radar" : "AZ9834"
+   },
+   {
+      "city" : "百色",
+      "radar" : "AZ9776"
+   },
+   {
+      "city" : "taiwan",
+      "radar" : "TW00"
+   },
+   {
+      "radar" : "AZ9857",
+      "city" : "毕节"
+   },
+   {
+      "city" : "上饶",
+      "radar" : "AZ9793"
+   },
+   {
+      "city" : "张掖",
+      "radar" : "AZ9936"
+   },
+   {
+      "radar" : "AZ9352",
+      "city" : "大同"
+   },
+   {
+      "city" : "乌鲁木齐",
+      "radar" : "AZ9991"
+   },
+   {
+      "radar" : "AZ9779",
+      "city" : "北海"
+   },
+   {
+      "radar" : "AZ9599",
+      "city" : "建阳"
+   },
+   {
+      "city" : "广州",
+      "radar" : "AZ9200"
+   },
+   {
+      "city" : "阜阳",
+      "radar" : "AZ9558"
+   },
+   {
+      "radar" : "AZ9377",
+      "city" : "南阳"
+   },
+   {
+      "radar" : "AZ9931",
+      "city" : "兰州"
+   },
+   {
+      "city" : "荆州",
+      "radar" : "AZ9716"
+   },
+   {
+      "city" : "西沙",
+      "radar" : "AZ9071"
+   },
+   {
+      "city" : "承德",
+      "radar" : "AZ9314"
+   },
+   {
+      "radar" : "AZ9396",
+      "city" : "驻马店"
+   },
+   {
+      "city" : "岳阳",
+      "radar" : "AZ9730"
+   },
+   {
+      "city" : "九江",
+      "radar" : "AZ9792"
+   },
+   {
+      "radar" : "AZ9421",
+      "city" : "朝阳"
+   },
+   {
+      "city" : "qingdao",
+      "radar" : "AZ9532"
+   },
+   {
+      "city" : "泰安",
+      "radar" : "AZ9538"
+   },
+   {
+      "radar" : "AZ9971",
+      "city" : "西宁"
+   },
+   {
+      "city" : "达州",
+      "radar" : "AZ9818"
+   },
+   {
+      "radar" : "AZ9290",
+      "city" : "西安"
+   },
+   {
+      "city" : "绵阳",
+      "radar" : "AZ9816"
+   },
+   {
+      "city" : "上海",
+      "radar" : "AZ9210"
+   },
+   {
+      "city" : "金华",
+      "radar" : "AZ9579"
+   },
+   {
+      "city" : "杭州",
+      "radar" : "AZ9571"
+   },
+   {
+      "radar" : "AZ9570",
+      "city" : "衢州"
+   },
+   {
+      "radar" : "AZ9831",
+      "city" : "宜宾"
+   },
+   {
+      "radar" : "AZ9574",
+      "city" : "宁波"
+   },
+   {
+      "radar" : "AZ9577",
+      "city" : "温州"
+   },
+   {
+      "radar" : "AZ9090",
+      "city" : "万州"
+   },
+   {
+      "city" : "昆明",
+      "radar" : "AZ9871"
+   },
+   {
+      "city" : "丽江",
+      "radar" : "AZ9888"
+   },
+   {
+      "radar" : "AZ9091",
+      "city" : "黔江"
+   },
+   {
+      "radar" : "AZ9692",
+      "city" : "德宏"
+   }
+]

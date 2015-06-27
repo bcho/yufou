@@ -29,3 +29,13 @@ def test_image():
                 'L88_PI_20150627055500000.GIF')
     d = datetime(year=2015, month=6, day=27, hour=5, minute=55)
     assert expected == radar.image('AZ9010', at=d)
+
+
+def test_radar_station_from_city():
+    assert radar.radar_station_from_city('广州') is not None
+    assert radar.radar_station_from_city('somewhere') is None
+
+
+def test_radar_station_from_radar_no():
+    assert radar.radar_station_from_radar_no('AZ9010') is not None
+    assert radar.radar_station_from_radar_no('invalid-no') is None

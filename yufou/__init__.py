@@ -6,6 +6,7 @@
 '''
 
 from . import radar
+from . import data
 
 
-__all__ = ['radar']
+__all__ = ['radar', 'data']

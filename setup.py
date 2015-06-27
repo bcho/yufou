@@ -17,7 +17,8 @@ setup(
     long_description=README,
     license='MIT',
 
-    packages=find_packages(exclude=['tests']),
+    packages=find_packages(exclude=['tests', 'data']),
+    package_data={'': ['data/radar.json']},
     include_package_data=True,
     install_requires=[],
     extra_require={

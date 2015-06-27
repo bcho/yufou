@@ -2,6 +2,8 @@
 
 今天你的城市下雨吗？
 
+[![Build Status](https://travis-ci.org/bcho/yufou.svg)](https://travis-ci.org/bcho/yufou)
+
 
 ## TODO
 

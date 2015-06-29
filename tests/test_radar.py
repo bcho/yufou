@@ -32,7 +32,7 @@ def test_image():
 
 
 def test_radar_station_from_city():
-    assert radar.radar_station_from_city('广州') is not None
+    assert radar.radar_station_from_city(u'广州') is not None
     assert radar.radar_station_from_city('somewhere') is None
 
 

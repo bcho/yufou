@@ -21,9 +21,6 @@ setup(
     package_data={'': ['data/radar.json']},
     include_package_data=True,
     install_requires=[],
-    extra_require={
-        'test': ['pytest']
-    },
 
     classifiers=[
         'Development Status :: 4 - Beta',
